@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SaveraTiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SaveraTiles.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
