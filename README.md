@@ -37,8 +37,8 @@ The nvoicing-Management-System is a working application For a Tiles Shop.
  * Admin Login
  * Add Product 
  * Update and Delete product
- * All Product details(SQL)
+ * All Product details (SQL)
  * Billing system 
 
  * Making Coustomer copy as a PDF 
- * All Coustomer details(SQL)
+ * All Coustomer details (SQL)
